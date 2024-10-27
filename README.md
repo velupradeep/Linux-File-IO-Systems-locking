@@ -1,5 +1,7 @@
-# Linux-File-IO-Systems-locking
-Ex07-Linux File-IO Systems-locking
+# NAME: PRADEEP V
+# REG NO: 212223240119
+# EX-07 Linux-File-IO-Systems-locking
+
 # AIM:
 To Write a C program that illustrates files copying and locking
 
